@@ -1,0 +1,19 @@
+<project>
+
+
+<groupId>Handtime</groupId>
+<atrifactId>mytestapp</artifactId>
+<version>1.0</version>
+<packaging>jar</packaging>
+
+
+<dependencies>  
+    <dependency>  
+      <groupId>html</groupId>  
+      <artifactId>html</artifactId>  
+      <version>4.8.2</version>  
+      <scope>test</scope>  
+    </dependency>  
+  </dependencies>  
+
+</project>
